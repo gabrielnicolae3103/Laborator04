@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ContactsManager</string>
+    <string name="phone_error">Error22222</string>
 </resources>
